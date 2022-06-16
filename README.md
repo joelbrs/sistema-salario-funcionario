@@ -4,7 +4,7 @@
          2 - Por último, será mostrado uma tela com todos os funcionários cadastrados no programa, com seus ID's, nomes e o salário final.
 
 ## Considerações Iniciais:
-Esse foi um Mini Projeto que fiz com base em alguns conceitos de Java Orientado a Objetos, como: Lamba, Arrays (ArrayList) e Encapsulamento, adquiridos no curso do mestre Nélio Alves "Java COMPLETO Programação Orientada a Objetos +Projetos
+Esse foi um Mini Projeto que fiz com base em alguns conceitos de Java Orientado a Objetos, como: Lamba, Arrays (ArrayList), Sobrecarga e Encapsulamento, adquiridos no curso do mestre Nélio Alves "Java COMPLETO Programação Orientada a Objetos +Projetos
 ".
 
 ## Validação do número de ID dos funcionários:
